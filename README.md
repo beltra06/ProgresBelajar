@@ -8,6 +8,12 @@ Belajar kelas Dasar Git dan GitHub. (Progres 20%)
 
 **15 Agustus 2022**  
 Belajar Belajar kelas Dasar Git dan GitHub. (Progres 35%)
-  * Belajar membuar repository
+  * Belajar membuat repository
   * Belajar membuat README untuk repository
   * Belajar menambahkan file baru
+
+**18 Agustus 2022**  
+Belajar Belajar kelas Dasar Git dan GitHub. (Progres 100%)
+  * Belajar dasar git
+  * Belajar git branches
+  * Belajar git sebagai portofolio
